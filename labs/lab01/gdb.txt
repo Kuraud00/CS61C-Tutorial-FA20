@@ -1,9 +1,9 @@
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
+1.use "set args" command to specify arglist for next run and run.
+2.use "break [func]" to set a breakpoint at main function
+3.use "n"
+4.use "o" or "step"
+5.use "c"
+6.use "p [variable name]"
+7.use "display [variable name]"
+8.use "info locals"
+9.use "quit"
